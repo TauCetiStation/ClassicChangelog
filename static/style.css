@@ -72,16 +72,19 @@ hr {
 	padding: 0px 5px;
 }
 
+.fix, 
 .bugfix {
 	background-image: url("icons/BugFix.png");
 	border-left-color: #99dba1 !important;
 }
 
+.add,
 .rscadd {
 	background-image: url("icons/CircledPlus.png");
 	border-left-color: #11a822 !important;
 }
 
+.del,
 .rscdel {
 	background-image: url("icons/CircledMinus.png");
 	border-left-color: #d14a4a !important;
