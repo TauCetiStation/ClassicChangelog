@@ -104,6 +104,11 @@ hr {
 	border-left-color: #d4c5f9 !important;
 }
 
+.localization {
+	background-image: url("icons/Russian.png");
+	border-left-color: #fc0fc0 !important;
+}
+
 .tweak {
 	background-image: url("icons/Wrench.png");
 	border-left-color: #708090 !important
